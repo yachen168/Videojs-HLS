@@ -15,8 +15,7 @@ const App = () => {
     fluid: true,
     sources: [
       {
-        // src: "https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
-        src: "http://tw-2.meshub.tv:8080/hls/ken2.m3u8",
+        src: "https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
         type: "application/x-mpegURL",
       },
     ],
