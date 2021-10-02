@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/VideoJS/index.module.scss"],"names":[],"mappings":"AAAA,sBACE,WAAA","file":"main.41ced473.chunk.css","sourcesContent":[".video {\n  width: 500px;\n}\n"]}
